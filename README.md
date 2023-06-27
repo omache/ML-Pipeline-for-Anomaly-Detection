@@ -1,4 +1,4 @@
-# Building and Managing an Isolation Forest Anomaly Detection Pipeline with Kedro
+# Building and Managing an Isolation Forest Anomaly Detection Pipeline Using Kedro Framework
 
 ## Overview
 
@@ -32,7 +32,7 @@ The [credit card transaction data](https://github.com/Fraud-Detection-Handbook/s
 
 ## Steps
 
-1. Change path to project directory in command line - `cd C:/Anomaly-Detection-Pipeline-Kedro`
+1. Change path to project directory in command line - `cd C:/ML-Pipeline-for-Anomally-Detection`
 2. Initialize Conda virtual environment (create one if not done so) - `conda activate env_kedro`
 3. Execute a pipeline run with `kedro run`
 
