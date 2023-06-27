@@ -4,7 +4,7 @@
 
 Anomaly (fraud) detection pipeline on credit card transaction data using Isolation Forest machine learning model and Kedro framework
 
-Link to article: https://neptune.ai/blog/data-science-pipelines-with-kedro
+ 
 
 ## Objective
 
@@ -36,4 +36,3 @@ The [credit card transaction data](https://github.com/Fraud-Detection-Handbook/s
 2. Initialize Conda virtual environment (create one if not done so) - `conda activate env_kedro`
 3. Execute a pipeline run with `kedro run`
 
-Please see the [walkthrough article](https://neptune.ai/blog/data-science-pipelines-with-kedro) for details
